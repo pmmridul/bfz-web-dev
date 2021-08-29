@@ -1,0 +1,67 @@
+@import url('https://fonts.googleapis.com/css2?family=Neucha&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Quicksand&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Acme&family=Staatliches&display=swap');
+
+img{
+    padding: auto;
+}
+
+body{
+    background-color: white;
+    font-family: 'Quicksand', sans-serif;
+    text-align: center;
+    margin: 0%;
+}
+
+h1{
+    max-width: 150px;
+    margin: 0% auto;
+    padding: 5px;
+    color: black;
+    text-align: inherit;
+    font-family: 'Neucha' , cursive;
+}
+
+form{
+
+   /* box-shadow: 2px 4px 10px black;
+    border-radius: 10px; */
+    padding: 5px 3px;
+    max-width: 550px;
+    margin: 0 auto;
+}
+
+.form-control{
+    text-align: left;
+    margin: 20px;
+
+}
+
+.form-control input{
+    border: 1px solid gray;
+    border-radius: 5px;
+    font-size: 14px;
+    font-family: inherit;
+    padding: 15px;
+    display: block;
+    width: 100%;
+}
+
+.form-control button{
+    background-color:rgb(74, 221, 74);
+    border: 1px solid rgb(74, 221, 74);
+    border-radius: 5px;
+    font-size: 20px;
+    font-family: 'Acme', sans-serif;
+    width: 100%;
+    padding: 15px;
+    display: block;
+    transition-duration: 10ms;
+    cursor: pointer;
+}
+
+.form-control button:hover{
+    background-color: rgba(255, 255, 240, 0.836);
+    color: rgb(9, 53, 9) ;
+    border: 1px solid rgba(255, 255, 240, 0.836);
+}
