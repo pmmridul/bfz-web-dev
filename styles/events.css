@@ -6,7 +6,6 @@
 .wrapper {
     background: url('edited.jpg') no-repeat;
     background-size: cover;
-    
     height: 120vh;
     margin-left: 460px;
     
@@ -15,14 +14,15 @@
 .navbar{
     height: 80px;
     width: 100%;
+    margin: 0%;
     background: rgba(220, 233, 150, 0.979);
     padding: 0%;
-
 }
+
 .logo{
     width: 309px;
     height: auto;
-
+    margin-bottom: 10px;
 }
 .navbar ul{
     float: right;
