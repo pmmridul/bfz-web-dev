@@ -11,4 +11,4 @@ This is a sample website of Tinkerhub GCEK to display its events and to serve re
 - JQuery
 
 ## How to run
-Visit the link to view and register for events of Tinkerhub GCEK.
+Visit [this link](https://pmmridul.github.io/bfz-web-dev/) to view and register for events of Tinkerhub GCEK.
