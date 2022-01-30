@@ -9,6 +9,6 @@ This is a sample website of Tinkerhub GCEK to display its events and to serve re
 ## Libraries used
 - Bootstrap
 - JQuery
-- 
+
 ## How to run
 Visit [this link](https://pmmridul.github.io/bfz-web-dev/) to view and register for events of Tinkerhub GCEK.
